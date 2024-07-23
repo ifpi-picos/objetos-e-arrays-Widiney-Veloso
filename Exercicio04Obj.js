@@ -6,4 +6,4 @@ const produtoEmEstoque = {
 
 let valorDoProduto = produtoEmEstoque.preço * produtoEmEstoque.quantidade
 
-console.log(`O valor total de estoque do é: R$ ${valorDoProduto.toFixed(2)}` )
+console.log(`O valor total de estoque do é: R$ ${valorDoProduto.toFixed(2)}` ) 
